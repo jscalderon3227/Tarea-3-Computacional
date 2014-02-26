@@ -8,9 +8,7 @@ numero=int(n)
 
 numeropasossalir=np.zeros(numero)
 
-
 for j in range(numero):
-
   x=0
   y=0
   z=0
